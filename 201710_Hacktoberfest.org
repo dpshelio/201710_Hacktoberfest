@@ -1,0 +1,46 @@
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+Title: Learn how to contribute to Open Source
+#+Email: @dpshelio
+#+OPTIONS: toc:nil num:1 timestamp:nil
+#+REVEAL_THEME: serif
+* Hacktoberfest
+** What?
+   [[https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-Email-01.png]]
+** Why?
+   [[https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/14718108_373567269664099_4510577153930166272_n.jpg]]
+** And
+    You will feel better!!
+* Open Source
+** What is it?
+   [[http://belfoss.eeecs.qub.ac.uk/wp-content/uploads/2015/08/foss_logos.jpg]]
+** How it works?
+   People make it possible
+** How to contribute
+   https://opensource.guide/
+* GitHub
+** What is it?
+   [[http://www.microej.com/wp-content/uploads/2015/05/github.png]]
+* Git
+** What is it?
+   [[https://i.imgur.com/YG8In8X.png]]
+** How do I use it?
+*** Plenty of tutorials 
+**** [[https://software-carpentry.org/assets/img/logo-blue.svg]]
+     [[https://software-carpentry.org/lessons/][Software Carpentry lessons]]
+
+**** [[https://production.cdmycdn.com/webpack/44e01805165bfde4e6e4322c540abf81.svg]]
+     [[https://www.codecademy.com/learn/learn-git][Learn git]]
+*** In short
+
+    #+BEGIN_SRC shell
+    git clone YourFavoriteProjectFork.git
+    git remote add upstream YourFavoriteProject.git
+    git checkout -b featureX origin/master
+    git status
+    git add/rm file[s]
+    git commit
+    git push
+    #+END_SRC
+
+    *Create a Pull Request*
+
