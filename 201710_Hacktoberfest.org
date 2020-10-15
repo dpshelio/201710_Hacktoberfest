@@ -20,9 +20,11 @@
 * GitHub
 ** What is it?
    [[http://www.microej.com/wp-content/uploads/2015/05/github.png]]
+   GitHub is a code hosting platform for collaboration and version control.GitHub lets you or others work together on projects.
 * Git
 ** What is it?
    [[https://i.imgur.com/YG8In8X.png]]
+   Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance.
 ** How do I use it?
 *** Plenty of tutorials 
 **** [[https://software-carpentry.org/assets/img/logo-blue.svg]]
